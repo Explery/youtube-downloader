@@ -4,3 +4,14 @@
     <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
   </a>
 </div>
+
+`set up`
+```
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install pytube
+
+deactivate
+```
