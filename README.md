@@ -7,6 +7,8 @@
 
 `set up`
 ```
+cd src
+
 python -m venv .venv
 
 .venv\Scripts\activate
