@@ -5,10 +5,8 @@
   </a>
 </div>
 
-`set up`
+`Scripts`
 ```
-cd src
-
 python -m venv .venv
 
 .venv\Scripts\activate
